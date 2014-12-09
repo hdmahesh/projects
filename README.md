@@ -1,4 +1,4 @@
 projects
-========
+=======
 
-Set of all projects
+List of all projects
